@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+venv/
+data/raw/
+data/processed/
+runs/
+merged_model/
+*.gguf
+wandb/
+.DS_Store
